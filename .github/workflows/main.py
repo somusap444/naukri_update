@@ -10,8 +10,8 @@ import datetime
 # ============================================================
 #  FILL IN YOUR DETAILS
 # ============================================================
-NAUKRI_EMAIL    = "shekhar444v@gmail.com"
-NAUKRI_PASSWORD = "Somu@444"
+NAUKRI_EMAIL    = "somu.sap444@gmail.com"
+NAUKRI_PASSWORD = "Somu@123"
 # ============================================================
 
 LOG_FILE = "naukri_log.txt"
